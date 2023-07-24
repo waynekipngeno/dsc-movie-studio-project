@@ -7,8 +7,8 @@
 
 This repository contains the analysis and findings of the Movie Studio Project, which aims to provide insights to Microsoft Studios on achieving financial success in the movie industry. The project explores factors influencing a movie's box office performance and profitability.
 
-**Datacleaning & Preparation is contained in the data-preparation.ipynb file.
-Data analysis and recommendations are contained the student.ipynb file.**
+- **Datacleaning & Preparation is contained in the data-preparation.ipynb file.**
+- **Data analysis and recommendations are contained the student.ipynb file.**
 
 Datacleaning & Preparation is contained in the data-preparation.ipynb file.
 Data analysis and recommendations are contained the student.ipynb file.
