@@ -10,6 +10,9 @@ This repository contains the analysis and findings of the Movie Studio Project, 
 Datacleaning & Preparation is contained in the data-preparation.ipynb file.
 Data analysis and recommendations are contained the student.ipynb file.
 
+Datacleaning & Preparation is contained in the data-preparation.ipynb file.
+Data analysis and recommendations are contained the student.ipynb file.
+
 ### Approach
 
 To conduct the analysis, we followed these key steps:
