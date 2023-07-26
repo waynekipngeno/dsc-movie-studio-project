@@ -56,7 +56,7 @@ Based on the EDA results, we discovered the following:
   ![Movie Analysis](./img/roi_genre_bar.png)
 
 - Budget: Movies with budgets between $10 million and $100 million are more likely to achieve positive returns.
-  ![Movie Analysis](./img/roi_budget_barr.png)
+  ![Movie Analysis](./img/roi_budget_bar.png)
 
 - Runtime: Medium-length and long films (90-120 minutes and >120 minutes) consistently demonstrate positive worldwide ROI.
   ![Movie Analysis](./img/roi_runtime_genre_box.png)
