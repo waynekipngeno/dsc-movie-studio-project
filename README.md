@@ -7,6 +7,7 @@
 
 This repository contains the analysis and findings of the Movie Studio Project, which aims to provide insights to Microsoft Studios on achieving financial success in the movie industry. The project explores factors influencing a movie's box office performance and profitability.
 
+- - **Data preparation and analysis is contained in the** `movie_studio_analysis.ipynb file.`
 - **Datacleaning & Preparation is contained in the** `data-preparation.ipynb file.`
 - **Data analysis and recommendations are contained the** `student.ipynb file.`
 
@@ -52,10 +53,13 @@ The following datasets were used for analysis:
 Based on the EDA results, we discovered the following:
 
 - Genres: Horror, adventure, comedy, and action movies tend to have higher profitability and popularity at the box office.
+  ![Movie Analysis](./img/roi_genre_bar.png)
 
 - Budget: Movies with budgets between $10 million and $100 million are more likely to achieve positive returns.
+  ![Movie Analysis](./img/roi_budget_barr.png)
 
 - Runtime: Medium-length and long films (90-120 minutes and >120 minutes) consistently demonstrate positive worldwide ROI.
+  ![Movie Analysis](./img/roi_runtime_genre_box.png)
 
 ### Recommendations and Conclusions
 
